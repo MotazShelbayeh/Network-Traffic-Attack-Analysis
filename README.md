@@ -70,7 +70,7 @@ The visual analysis was performed using Tableau. An interactive dashboard is ava
 
 ## Datafolio Overview
 
-![Datafolio Overview](<img width="1920" height="1080" alt="Datafolio" src="https://github.com/user-attachments/Assets/597ef692-2059-4716-9c3e-27f95d0bca8d"/>)
+![Datafolio Overview](Assets/Datafolio.png)
 
 The **Datafolio** image summarizes the entire project workflow, from data preprocessing to visualization and insights.
 
