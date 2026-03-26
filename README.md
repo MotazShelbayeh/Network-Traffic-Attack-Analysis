@@ -33,7 +33,7 @@ Statistical summaries were generated using `df.describe()`, providing key metric
 - Standard Deviation  
 - Minimum and Maximum values  
 
-![Numerical Data Statistics](<img width="673" height="354" alt="Screenshot 2026-03-26 153213" src="https://github.com/user-attachments/Assets/3ad44bda-771e-4c13-af86-32064477b96a"/>)
+![Datafolio Overview](Assets/Screenshot 2026-03-26 153213.png)
 
 ---
 
