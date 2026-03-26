@@ -76,9 +76,15 @@ The **Datafolio** image summarizes the entire project workflow, from data prepro
 
 ---
 
-## Usage
+## Tools & Technologies Used
 
-You can explore and run the analysis using the Jupyter/Colab notebook:
+- **Python (pandas, numpy)** – Data preprocessing & analysis  
+- **Matplotlib / Seaborn** – Data visualization  
+- **Tableau** – Interactive dashboards  
+- **Jupyter Notebook** – Project documentation & analysis  
 
-[Open in Colab](https://colab.research.google.com/github/USERNAME/REPO_NAME/blob/main/Notebooks/NetworkTrafficAnalysis.ipynb)
+---
 
+## Conclusion
+
+This project provides a comprehensive analysis of network traffic attacks. It identifies key trends, targeted devices, and attack distributions, helping organizations enhance their network security measures and response strategies.
