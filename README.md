@@ -33,7 +33,7 @@ Statistical summaries were generated using `df.describe()`, providing key metric
 - Standard Deviation  
 - Minimum and Maximum values  
 
-![Numerical Data Statistics](<img width="673" height="354" alt="Screenshot 2026-03-26 153213" src="https://github.com/user-attachments/assets/3ad44bda-771e-4c13-af86-32064477b96a"/>)
+[Numerical Data Statistics](<img width="673" height="354" alt="Screenshot 2026-03-26 153213" src="https://github.com/user-attachments/assets/3ad44bda-771e-4c13-af86-32064477b96a"/>)
 
 ---
 
@@ -41,7 +41,7 @@ Statistical summaries were generated using `df.describe()`, providing key metric
 
 The visual analysis was performed using Tableau. An interactive dashboard is available [here](https://public.tableau.com/app/profile/motaz.shelbayeh/viz/NetworkTrafficAttack/NETWORKTRAFFICATTACK).
 
-![Network Traffic Attack Dashboard](<img width="1683" height="877" alt="{A1337299-140C-49A3-AF69-6913CDF93A6A}" src="https://github.com/user-attachments/assets/867b58eb-b875-4da6-a366-d6536716ca75"/>)
+[Network Traffic Attack Dashboard](<img width="1683" height="877" alt="{A1337299-140C-49A3-AF69-6913CDF93A6A}" src="https://github.com/user-attachments/assets/867b58eb-b875-4da6-a366-d6536716ca75"/>)
 
 ### Key Insights:
 
@@ -70,7 +70,7 @@ The visual analysis was performed using Tableau. An interactive dashboard is ava
 
 ## Datafolio Overview
 
-![Datafolio Overview](<img width="1920" height="1080" alt="Datafolio" src="https://github.com/user-attachments/assets/597ef692-2059-4716-9c3e-27f95d0bca8d"/>)
+[Datafolio Overview](<img width="1920" height="1080" alt="Datafolio" src="https://github.com/user-attachments/assets/597ef692-2059-4716-9c3e-27f95d0bca8d"/>)
 
 The **Datafolio** image summarizes the entire project workflow, from data preprocessing to visualization and insights.
 
